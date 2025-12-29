@@ -1,3 +1,5 @@
-# Welcome to Neo-X Labs repository
+# PT Neo Akselerasi Indonesia 
+## NEO-X Labs
 
-Neo-X Labs is a part of [Neo-X Corporation](https://github.com/Neo-X-Corp)
+
+NEO-X Labs is a part of [NEO-X Corporation](https://github.com/NEO-X-Corp)
