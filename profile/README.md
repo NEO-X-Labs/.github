@@ -1,7 +1,7 @@
 # Welcome!
 
 **PT Neo Akselerasi Indonesia** <br />
-*Data | Intelligence | Future* <br />
+*Distributed and Decentralized Intelligent Enterprise* <br />
 Free/Open Source Laboratory
 --- 
 
